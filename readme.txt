@@ -1,5 +1,6 @@
 COMSC 211: Data Structures
-Overview
+
+"Overview
 
 This is the third course in the major track for computer science and is programming-intensive. The course will teach you core data structures concepts and will provide you with further java programming experience by requiring you to put those concepts into code.
 
@@ -26,4 +27,6 @@ Week 3: heaps and priority queues
 Week 4: red-black trees
 Week 5: hash tables
 Week 6: midterm
-Weeks 7-13: advanced data structures and semester project
+Weeks 7-13: advanced data structures and semester project"
+
+*http://wiki.cs.mtholyoke.edu/mediawiki/cs211/index.php/Syllabus
