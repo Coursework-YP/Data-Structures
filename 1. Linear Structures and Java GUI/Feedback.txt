@@ -1,0 +1,6 @@
+Feedback: 85%
+-1 point - JUnit tests failed because of toString method adding newline that was not included in assertion comparisons
+-2 point - doesn't JUnit test forward traversal
+-2 point - doesn't JUnit test reverse traversal
+
+-10 points - GUI crashes when I enter the same student name twice
